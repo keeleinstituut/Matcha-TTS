@@ -1,7 +1,7 @@
 _target_: matcha.data.text_mel_datamodule.TextMelDataModule
 name: peeter_jutustaja_otsekone
-train_filelist_path: data/est_audio_text_train_filelist.txt
-valid_filelist_path: data/est_audio_text_val_filelist.txt
+train_filelist_path: peeter_training_sets_path/exp-3.2/est_audio_text_train_filelist_44000_1000000.txt
+valid_filelist_path: peeter_training_sets_path/exp-3.2/est_audio_text_validation_filelist_44000_1000000.txt
 batch_size: 8
 num_workers: 4
 pin_memory: True
@@ -16,7 +16,7 @@ win_length: 1024
 f_min: 0
 f_max: 8000
 data_statistics:  # Computed for ljspeech dataset
-  mel_mean: -4.964112
-  mel_std: 2.226235
+  mel_mean: -5.290146
+  mel_std: 2.293678
 seed: ${seed}
 load_durations: false
