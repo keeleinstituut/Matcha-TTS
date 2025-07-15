@@ -109,6 +109,10 @@ def estonian_cleaners(text):
     #print(phonemes)
     return phonemes
 
+def estonian_cleaners_plain_text(text):
+    """Pipeline for Catalan text, including abbreviation expansion. + punctuation + stress"""
+    return text
+
 
 def english_cleaners2(text):
     """Pipeline for English text, including abbreviation expansion. + punctuation + stress"""
