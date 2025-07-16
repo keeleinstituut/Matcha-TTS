@@ -11,5 +11,5 @@ defaults:
 
 tags: ["eva"]
 
-run_name: eva_exp1
+run_name: eva_exp1_ms
 out_size: 172
