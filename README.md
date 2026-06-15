@@ -313,3 +313,56 @@ Other source code we would like to acknowledge:
 - [Grad-TTS](https://github.com/huawei-noah/Speech-Backbones/tree/main/Grad-TTS): For the monotonic alignment search source code
 - [torchdyn](https://github.com/DiffEqML/torchdyn): Useful for trying other ODE solvers during research and development
 - [labml.ai](https://nn.labml.ai/transformers/rope/index.html): For the RoPE implementation
+
+## License
+
+This project contains materials under different licensing terms.
+
+The software code is licensed under the MIT License. See [`LICENSE.md`](LICENSE.md).
+
+Some synthetic voices are subject to separate usage restrictions. In particular, the Tambet, Liivika, Indrek and Külli synthetic voices are **not** licensed under the MIT License. Their use is restricted and is described in [`VOICES_LICENSE.md`](VOICES_LICENSE.md).
+
+## Important notice about synthetic voices
+
+The Tambet, Liivika, Indrek and Külli synthetic voices may only be used for the permitted purposes listed in [`VOICES_LICENSE.md`](VOICES_LICENSE.md).
+
+In general, these voices may be used for:
+
+- research and development;
+- certain accessibility-related use cases;
+- certain non-commercial public-sector use cases.
+
+These voices may not be used for:
+
+- commercial purposes;
+- political purposes, including in the military field;
+- immoral or unethical purposes.
+
+Commercial use is permitted only with prior written consent where applicable.
+
+Permission requests should be sent to:
+
+- enliit@enliit.ee
+- heli@eki.ee
+
+## Using only the MIT-licensed code
+
+If you use only the software code and do not use the restricted synthetic voices, then the MIT License applies to that code.
+
+## Using the restricted voices
+
+If you use the Tambet, Liivika, Indrek or Külli synthetic voices, you must also comply with [`VOICES_LICENSE.md`](VOICES_LICENSE.md).
+
+You are responsible for making sure that your use case is allowed under those restrictions.
+
+## License summary
+
+| Material | License / terms |
+|---|---|
+| Software code | MIT License |
+| Tambet, Liivika, Indrek and Külli synthetic voices | Separate restricted-use terms |
+| Commercial use of restricted voices | Requires prior written permission where applicable |
+
+## Disclaimer
+
+This repository separates the software license from the voice usage restrictions. The MIT License does not grant any rights to use restricted synthetic voices outside the terms described in [`VOICES_LICENSE.md`](VOICES_LICENSE.md).

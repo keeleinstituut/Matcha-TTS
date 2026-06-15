@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Additional notice:
+
+This MIT License applies only to the software code covered by the above MIT
+license notice. It does not apply to separately licensed voice models, voice
+assets, datasets, recordings, generated synthetic voices, or other materials
+that are marked as subject to separate usage restrictions.
+
+See VOICES_LICENSE.md for the separate restrictions that apply to the
+Tambet, Liivika, Indrek and Külli synthetic voices.
